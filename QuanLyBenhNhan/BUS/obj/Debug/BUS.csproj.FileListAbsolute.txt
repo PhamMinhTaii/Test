@@ -1,0 +1,9 @@
+D:\QuanLyBenhNhan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\QuanLyBenhNhan\BUS\bin\Debug\BUS.dll
+D:\QuanLyBenhNhan\BUS\bin\Debug\BUS.pdb
+D:\QuanLyBenhNhan\BUS\bin\Debug\DAO.dll
+D:\QuanLyBenhNhan\BUS\bin\Debug\DTO.dll
+D:\QuanLyBenhNhan\BUS\bin\Debug\DAO.pdb
+D:\QuanLyBenhNhan\BUS\bin\Debug\DTO.pdb
+D:\QuanLyBenhNhan\BUS\obj\Debug\BUS.dll
+D:\QuanLyBenhNhan\BUS\obj\Debug\BUS.pdb
